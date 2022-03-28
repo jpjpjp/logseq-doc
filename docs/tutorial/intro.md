@@ -14,4 +14,4 @@ Feel free to contribute or to extend this list:
 
 - Installation
 - Usage of queries
-- Add an use properties
+- Add and use properties
